@@ -211,13 +211,13 @@
                 <ImageView
                     android:layout_width="25dp"
                     android:layout_height="25dp"
-                    android:src="@drawable/ic_email"/>
+                    android:src="@drawable/icon_google"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:textColor="#0657D3"
+                    android:textColor="#004ef9"
                     android:layout_marginLeft="10dp"
                     android:layout_gravity="center_vertical"
                     android:text="Continue with Google"/>
@@ -247,13 +247,13 @@
                 <ImageView
                     android:layout_width="25dp"
                     android:layout_height="25dp"
-                    android:src="@drawable/ic_email"/>
+                    android:src="@drawable/icon_fb"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:textColor="#0657D3"
+                    android:textColor="#004ef9"
                     android:layout_marginLeft="10dp"
                     android:layout_gravity="center_vertical"
                     android:text="Continue with Facebook"/>
