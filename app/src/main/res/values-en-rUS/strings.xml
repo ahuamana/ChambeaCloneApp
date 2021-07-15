@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chambea</string>
+    <string name="language_spanish">Spanish</string>
+    <string name="language_english">English</string>
+    <string name="language_portugues">Portugues</string>
+    <string name="language_choose">Choose</string>
+    <string name="language_chooseYourLanguage">Choose your language</string>
+</resources>

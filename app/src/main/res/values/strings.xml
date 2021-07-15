@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Chambea</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_english">Ingles</string>
+    <string name="language_portugues">Portugues</string>
+    <string name="language_choose">Elegir</string>
+    <string name="language_chooseYourLanguage">Elige tu idioma</string>
+
 </resources>
