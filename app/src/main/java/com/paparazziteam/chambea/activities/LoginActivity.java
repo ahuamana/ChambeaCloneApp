@@ -2,8 +2,10 @@ package com.paparazziteam.chambea.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.graphics.PixelFormat;
 import android.os.Build;
 import android.os.Bundle;
+import android.view.View;
 import android.view.WindowManager;
 
 import com.paparazziteam.chambea.R;
@@ -16,6 +18,10 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         setStatusBarFullTransparent();
+
+
+
+
     }
 
     private void setStatusBarFullTransparent()
@@ -25,4 +31,5 @@ public class LoginActivity extends AppCompatActivity {
             getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
         }
     }
+
 }
